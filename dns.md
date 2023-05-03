@@ -1,4 +1,4 @@
-## How ndots (ndots=5) works within container.
+## How ndots (ndots=5) works within container?
 
 ### Sample of /etc/resolv.conf
 ~~~
